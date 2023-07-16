@@ -21,7 +21,7 @@ function App() {
           dispatch(decrement());
         }}
         className='me-2 btn btn-danger'>
-        Decrement
+        Decrement by number
       </button>
       <button
         onClick={() => {
